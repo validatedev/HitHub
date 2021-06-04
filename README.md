@@ -1,8 +1,8 @@
 # HitHub — a hit list predictor
 
-Mert Can Demir - 21727096\
-Berkay Geyik - 21727264\
-Yusuf Keten - 21806974
+[Mert Can Demir](https://github.com/validatedev)
+[Berkay Geyik](https://github.com/berkaygeyik)
+[Yusuf Keten](https://github.com/yusufketen)
 
 [Video Link](https://youtu.be/1CtOYxJ6PDc)
 
