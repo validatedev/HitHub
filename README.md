@@ -8,7 +8,6 @@
 [Yusuf Keten](https://github.com/yusufketen)
 
 ## Video
-
 [Video Link](https://youtu.be/1CtOYxJ6PDc)
 
 ## How to Test
